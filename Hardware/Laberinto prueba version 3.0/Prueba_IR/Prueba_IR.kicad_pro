@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LaberintoNegri.kicad_pro",
+    "filename": "Prueba_IR.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -318,7 +318,7 @@
   },
   "sheets": [
     [
-      "0bedad37-3e3c-4266-b4c1-07c7e3d0463e",
+      "64069abb-0f03-4124-8c6a-a5175efd9183",
       ""
     ]
   ],
