@@ -2152,7 +2152,7 @@
   (symbol (lib_id "EESTN5:LOGO_ROTULO") (at 250.825 174.625 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f5407309-82d6-4d40-8a31-07c1d6930fc7)
-    (property "Reference" "#G?" (id 0) (at 250.825 180.2638 0)
+    (property "Reference" "#G1" (id 0) (at 250.825 180.2638 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Value" "LOGO_ROTULO" (id 1) (at 250.825 168.9862 0)
@@ -2207,7 +2207,7 @@
 
   (symbol_instances
     (path "/f5407309-82d6-4d40-8a31-07c1d6930fc7"
-      (reference "#G?") (unit 1) (value "LOGO_ROTULO") (footprint "")
+      (reference "#G1") (unit 1) (value "LOGO_ROTULO") (footprint "")
     )
     (path "/22c8e6bb-1d64-4224-aa92-4977c2ac4d67"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
