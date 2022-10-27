@@ -383,7 +383,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "lab_V3.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
